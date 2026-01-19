@@ -106,3 +106,4 @@ The API URL is defined directly in the JavaScript section:
 
 ```js
 const API_URL = 'https://<api-id>.execute-api.<region>.amazonaws.com/funfact';
+
